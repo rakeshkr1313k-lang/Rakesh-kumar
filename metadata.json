@@ -1,0 +1,10 @@
+{
+  "name": "Dost AI - Hindi Voice Assistant",
+  "description": "एक दोस्ताना हिंदी AI सहायक जो आपकी हर बात सुनता है और मधुर आवाज़ में जवाब देता है। A friendly Hindi voice AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
